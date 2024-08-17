@@ -1,1 +1,2 @@
-console.log('Hello world')
+const firstName = 'Ella'
+console.log('Hello', firstName)
